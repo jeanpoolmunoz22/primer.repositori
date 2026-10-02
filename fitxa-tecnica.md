@@ -37,3 +37,15 @@ Documentar els passos bàsics per instal·lar i configurar Ubuntu en un ordinado
 
 - [Documentació oficial d'Ubuntu](https://ubuntu.com/tutorials)
 - [Documentació de GitHub](https://docs.github.com/)
+
+## Imatge del procés
+
+![Logotip d'Ubuntu](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png)
+
+## Exemple de comanda
+
+Per consultar la versió del sistema, podem executar:
+
+```bash
+lsb_release -a
+```
