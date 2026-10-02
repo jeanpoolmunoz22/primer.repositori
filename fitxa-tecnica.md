@@ -49,3 +49,6 @@ Per consultar la versió del sistema, podem executar:
 ```bash
 lsb_release -a
 ```
+## Historial i recuperació de canvis
+
+La comanda `git log --oneline` permet consultar els commits anteriors. Amb `git show` podem veure els detalls d'un commit. Consultar l'historial ajuda a saber quins canvis s'han fet al document.
